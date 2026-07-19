@@ -1,0 +1,6 @@
+{
+  "name": "Okuma CNC Machine Predictive Maintenance",
+  "description": "An advanced industrial edge predictive maintenance platform for heavy-duty CNC machines, featuring real-time telemetry streaming, historical moment replay, health trend charts, anomaly diagnostics, and machine-learning driven Remaining Useful Life (RUL) forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
